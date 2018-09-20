@@ -1,16 +1,16 @@
 ## World Bank Poverty Prediction
 
-Summary: Artificial neural networks can be used to predict which features in a dataset predict a household's poverty.
+__Summary__: Artificial neural networks can be used to predict which features in a dataset predict a household's poverty.
 
-Data: 2018 World Bank household-level data with 343 features (reduced to 4 with PCA) and 1 target variable (poverty).
+__Data__: 2018 World Bank household-level data with 343 features (reduced to 4 with PCA) and 1 target variable (poverty).
 
-Results: k-Nearest Neighbor precision 0.52, recall 0.52, F1 score 0.52; stochastic gradient descent precision 0.52, recall 0.52, F1 score 0.52, mean log loss 15.68; multilayer perceptron 114 neurons, 2 layers, and lbfgs solver precision 0.85, recall 0.85, F1 score 0.85, mean log loss 12.22,; multilayer perceptron 342 neurons, 4 layers, and lgfgs solver precision 1.0, recall 1.0, f1 score 1.0, mean log loss 9.99 e-16).
+__Results__: k-Nearest Neighbor precision 0.52, recall 0.52, F1 score 0.52; stochastic gradient descent precision 0.52, recall 0.52, F1 score 0.52, mean log loss 15.68; multilayer perceptron 114 neurons, 2 layers, and lbfgs solver precision 0.85, recall 0.85, F1 score 0.85, mean log loss 12.22,; multilayer perceptron 342 neurons, 4 layers, and lgfgs solver precision 1.0, recall 1.0, f1 score 1.0, mean log loss 9.99 e-16).
 
 
 ## IDB Costa Rican Household Poverty Level Prediction
 
-Summary: Used Random Forest classifier to predict which features in a dataset predict a household's poverty
+__Summary__: Used Random Forest classifier to predict which features in a dataset predict a household's poverty
 
-Data: 2018 International Development Bank household-level survey data with 143 features (reduced to 2) and 1 target variable (poverty level)
+__Data__: 2018 International Development Bank household-level survey data with 9557 training observations, 143 features (reduced to 2) and 1 target variable (poverty level)
 
-Results: Random Forest and Multilayer perceptron with 5 layers and lbfgs solver had macro F1 score = 0.9976
+__Results__: Random Forest and Multilayer perceptron with 5 layers and lbfgs solver had macro F1 score = 0.9976

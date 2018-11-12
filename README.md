@@ -9,7 +9,7 @@ __Results__: k-Nearest Neighbor precision 0.52, recall 0.52, F1 score 0.52; stoc
 
 ## IDB Costa Rican Household Poverty Level Prediction
 
-__Summary__: Machine learning classification techniques can be used to predict which features in a dataset predict a household's poverty
+__Summary__: Machine learning classification techniques can be used to predict which features in a dataset predict a household's poverty.
 
 __Data__: 2018 International Development Bank household-level survey training data with 9557 observations, 143 features and 1 target variable (poverty level).
 

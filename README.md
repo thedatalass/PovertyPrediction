@@ -1,4 +1,5 @@
 ## World Bank Poverty Prediction
+### Driven Data Competition (https://www.drivendata.org/competitions/50/worldbank-poverty-prediction/)
 
 __Summary__: Artificial neural networks can be used to predict which features in a dataset predict a household's poverty.
 
@@ -8,6 +9,7 @@ __Results__: k-Nearest Neighbor precision 0.52, recall 0.52, F1 score 0.52; stoc
 
 
 ## IDB Costa Rican Household Poverty Level Prediction
+### Kaggle Competition (https://www.kaggle.com/c/costa-rican-household-poverty-prediction)
 
 __Summary__: Machine learning classification techniques can be used to predict which features in a dataset predict a household's poverty.
 

@@ -13,4 +13,4 @@ __Summary__: Machine learning classification techniques can be used to predict w
 
 __Data__: 2018 International Development Bank household-level survey training data with 9557 observations, 143 features and 1 target variable (poverty level).
 
-__Results__: Random Forest and Multilayer perceptron with 5 layers and lbfgs solver had macro F1 score = 0.9976
+__Results__: Random Forest had macro F1 score = 0.9976
